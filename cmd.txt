@@ -1,0 +1,2 @@
+python test_network.py --model santa_not_santa2.model --image examples/night_sky.png
+python test_network.py --model santa_not_santa2.model --image santa.jpg
